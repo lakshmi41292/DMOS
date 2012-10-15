@@ -1,7 +1,7 @@
 /*******************************************************************/
 /*	CSE 531 Distributed Multiprocessor Operating Systems	   */
 /*				Project 2			   */
-/*	Group members: Mugdha Kolhatkar Vijayalakshmi K		   */
+/*	Group members: Mugdha Kolhatkar, Vijayalakshmi Kothandan   */
 /*******************************************************************/
 
 #include<stdio.h>
